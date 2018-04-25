@@ -1,0 +1,29 @@
+form{
+	width: 200px;
+	margin: 0 auto;
+	border: 2px groove orange;
+			background-color: grey;
+
+}
+input[type='textbox']{
+	width: 90%;
+padding: 10px 0;
+margin: 0 5%;
+
+}
+input[type='button'],
+input[type='reset']{
+	width: 40px;
+	padding: 5px;
+	background-color: orange;
+	margin: 0 5%;
+}
+h1{
+ text-align: center;
+ color: white;
+
+}
+#ac{
+	width: 50%;
+
+}
